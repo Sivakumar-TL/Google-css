@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+img{
+    width: 40%;
+    margin: auto;
+    margin-top: 100px; 
+   
+}
+input{
+    width: 50%; 
+    margin: auto;
+    padding: 5px;
+    margin-top: 10px; 
+    border: solid 1px black;
+}
+button{
+    margin-top: 10px;
+    border: none;
+    padding: 7px;
+    border-radius: 7px;
+    color: rgb(137, 135, 135);
+}
